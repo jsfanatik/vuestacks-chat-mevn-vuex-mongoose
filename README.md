@@ -1,4 +1,4 @@
-# vuestacks-chat-firebase
+# vuestacks-chat-MEVN-vuex-mongoose
 
 ## Project setup
 ```
