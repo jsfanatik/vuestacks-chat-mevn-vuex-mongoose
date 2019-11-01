@@ -34,11 +34,13 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 The VueStacks chat MEVN demo utilizes Vue-Router, Vuex, Axios HTTP client, Express server, and Mongoose.js to post messages in a chatroom.
 
+This demo utilizes Materialize CSS for general styling. See the CDN located in ```public/index.html```
+
 See chat component in ```components/Chat.vue```
 
 See login component in ```components/Home.vue```
 
-See Vuex state management in ```./store/init.js```
+See Vuex state management in ```/store/init.js```
 
 See ```api/post.route.js``` to view Express router setup.
 
